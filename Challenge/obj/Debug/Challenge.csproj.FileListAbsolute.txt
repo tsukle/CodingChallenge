@@ -1,0 +1,9 @@
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.csprojResolveAssemblyReference.cache
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.Form1.resources
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.Properties.Resources.resources
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.csproj.GenerateResource.Cache
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.pdb
