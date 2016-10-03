@@ -14,3 +14,8 @@ How do I view the source code?
 ------
 You can view the source code by going to the `Challenge` folder and opening the `Form1.cs` file. This contains all of the code that is used in the program.  
 You can also open the `Challenge.sln` project file in Visual Studio in order to see the form in action along-side the code.
+
+How can I re-build/compile the program?
+------
+If you have edited the program in Visual Studio, you can re-build it to the `bin\Debug` folder by clicking on `Build` in the menu and hitting the `Build Challenge` button.  
+Alternatively you can press `Shift + F6` to build the project.

@@ -7,3 +7,6 @@ C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Cha
 C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.csproj.GenerateResource.Cache
 C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.exe
 C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Challenge\obj\Debug\Challenge.pdb
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Borwell-Code-Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Borwell-Code-Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\tsukle\Desktop\Code\Borwell Challenge\Challenge\Borwell-Code-Challenge\Challenge\obj\Debug\Challenge.pdb
